@@ -1,0 +1,8 @@
+# data
+aclImdb
+# wandb
+wandb
+# venv
+.venv
+# byte complie
+__pycache__/
